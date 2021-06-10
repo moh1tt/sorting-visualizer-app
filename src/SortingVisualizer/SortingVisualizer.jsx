@@ -125,7 +125,7 @@ export default class SortingVisualizer extends React.Component {
                         <li className="lil"><a href="mailto:asmohitt@gmail.com" class="fa fa-google"> </a></li>
                         <li className="lil"><a href="https://www.linkedin.com/in/moh1tt" class="fa fa-linkedin"> </a></li>
                         <li className="lil"><a href="https://www.instagram.com/moh1tt/" class="fa fa-instagram"> </a></li>
-                        <li className="lil"><a href="#moh1tt">Moh1tt</a></li>
+                        <li className="lil"><a href="#moh1tt">@author Moh1tt</a></li>
                     </ul>
                 </nav>
                 <div className="array-container">
